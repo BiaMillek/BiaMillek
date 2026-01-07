@@ -11,7 +11,7 @@ Atualmente, estou em transição para a área de desenvolvimento, com foco em De
 📌 Aberta a oportunidades de estágio ou posição júnior na área de desenvolvimento de software.
 
 🔗 Conecte-se comigo
-<p align="left"> <a href="https://www.linkedin.com/in/bianca-millek-b00a023a3/"> <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/"> <img alt="GitHub followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bianca-millek-b00a023a3/"> <img alt="LinkedIn" title="Meu LinkedIn"</a> </p>
 
 ⚠️ Obs: troque USERNAME pelo seu usuário do GitHub.
 
