@@ -14,7 +14,6 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
 
 ## 🔗 Fale comigo
 
-html
 <p align="left">
   <a href="https://www.linkedin.com/in/bianca-millek-b00a023a3/">
     <img 
@@ -36,6 +35,7 @@ html
 ---
 
 ## 🤖 Linguagens e Tecnologias
+
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -45,22 +45,13 @@ html
 <br/>
 
 ---
-## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BiaMillek&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠️ Conhecimentos em TI
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaMillek&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-</p>
+- Suporte Técnico ao Usuário  
+- Manutenção de Desktops, Notebooks e Dispositivos Móveis  
+- Backup de Servidores  
+- Gerenciamento de Dispositivos Android (MRP)  
+- Antivírus e Acesso Remoto  
+- Redes (Switches, Roteadores e Crimpagem de Cabos)  
 
