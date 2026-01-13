@@ -53,5 +53,17 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
 - Backup de Servidores  
 - Gerenciamento de Dispositivos Android (MRP)  
 - Antivírus e Acesso Remoto  
-- Redes (Switches, Roteadores e Crimpagem de Cabos)  
+- Redes (Switches, Roteadores e Crimpagem de Cabos)
+
+## 📌 Progresso dos Projetos
+
+### 🚗 Imperium Cars
+![Carousel_Animation](https://progress-bar.dev/85/?title=Concluído)
+
+### 💼 Portfólio Pessoal
+![Portfólio](https://progress-bar.dev/60/?title=Em%20Desenvolvimento)
+
+### 📱 App de Tarefas
+![Todo App](https://progress-bar.dev/40/?title=Início)
+
 
