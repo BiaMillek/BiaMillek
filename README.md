@@ -57,13 +57,8 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
 
 ## 📌 Progresso dos Projetos
 
-### 🚗 Imperium Cars
-![Carousel_Animation](https://progress-bar.dev/85/?title=Concluído)
-
-### 💼 Portfólio Pessoal
-![Portfólio](https://progress-bar.dev/60/?title=Em%20Desenvolvimento)
-
-### 📱 App de Tarefas
-![Todo App](https://progress-bar.dev/40/?title=Início)
+### 🎠 Carousel_Animation
+[![Progress](https://img.shields.io/badge/Status-▰▰▰▰▰▰▰▰▰▰%20100%25-success?style=for-the-badge&logo=github)]([https://seu-link](https://github.com/BiaMillek/Carousel_Animation))  
+[![Preview](https://img.shields.io/badge/👁️_Preview-Acessar-black?style=for-the-badge)](https://seu-link)
 
 
