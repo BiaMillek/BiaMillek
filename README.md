@@ -61,9 +61,9 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
 [![Progress](https://img.shields.io/badge/Status-▰▰▰▰▰▰▰▰▰▰%20100%25-success?style=for-the-badge&logo=github)]([https://seu-link](https://github.com/BiaMillek/Carousel_Animation))  
 [![Preview](https://img.shields.io/badge/👁️_Preview-Acessar-black?style=for-the-badge)](https://seu-link)
 
-### 💻 API_Login_Screen
+### 💻 Login_Screen
 [![Progress](https://img.shields.io/badge/Status-▰▱▱▱▱▱▱▱▱▱%2010%25-success?style=for-the-badge&logo=github)]([https://seu-link](https://github.com/BiaMillek/Carousel_Animation))  
-[![Preview](https://img.shields.io/badge/👁️_Preview-Acessar-black?style=for-the-badge)](https://github.com/BiaMillek/API_Login_Screen)
+[![Preview](https://img.shields.io/badge/👁️_Preview-Acessar-black?style=for-the-badge)](https://github.com/BiaMillek/Login_Screen)
 
 <!-- STATUS
 10% → ▰▱▱▱▱▱▱▱▱▱
