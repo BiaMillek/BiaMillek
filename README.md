@@ -38,8 +38,16 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
 
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="C" title="C" width="35px" style="padding-right:10px;" 
+src="https://img.icons8.com/color/48/c-programming.png" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" 
+src="https://img.icons8.com/color/48/linux--v1.png" />
+
+
 
 <br/>
 <br/>
