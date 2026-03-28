@@ -74,7 +74,7 @@ src="https://img.icons8.com/color/48/linux--v1.png" />
 [![Preview](https://img.shields.io/badge/💻_Preview-Acessar-black?style=for-the-badge)](https://github.com/BiaMillek/Login_Screen)
 
 ### 👾 Catalogo-de-Jogos
-[![Progress](https://img.shields.io/badge/Status-▰▰▰▱▱▱▱▱▱▱%2030%25-success?style=for-the-badge&logo=github)]([https://seu-link](https://github.com/BiaMillek/Carousel_Animation))  
+[![Progress](https://img.shields.io/badge/Status-▰▰▰▰▱▱▱▱▱▱%2040%25-success?style=for-the-badge&logo=github)]([https://seu-link](https://github.com/BiaMillek/Carousel_Animation))  
 [![Preview](https://img.shields.io/badge/💻_Preview-Acessar-black?style=for-the-badge)]([https://github.com/BiaMillek/Login_Screen](https://github.com/BiaMillek/Catalogo-de-jogos))
 
 <!-- STATUS
