@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bianca Millek
 
-**Estudante de Engenharia de Software | Desenvolvedora Front-end (iniciante)**
+**Estudante de Engenharia de Software | Desenvolvedora**
 
 Me chamo **Bianca Millek**, tenho **18 anos** e sou estudante de **Engenharia de Software na UniSENAI**, atualmente no **segundo período**. Possuo **curso técnico em Desenvolvimento de Sistemas**, além de outros cursos na área de **Tecnologia da Informação**.
 
@@ -23,7 +23,7 @@ Atualmente, estou em **transição para a área de desenvolvimento**, com foco e
     />
   </a>
 
-  <a href="mailto:bianca.millek022@gmail.com">
+  <a href="mailto:bianca.millek02@gmail.com">
     <img 
       alt="Email" 
       title="Entre em contato por e-mail" 
